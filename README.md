@@ -1,7 +1,7 @@
 # 🚀🤖 Effortless Web Scraping Toolkitfor Business and Developers
 
 <div align="center">
-  <img src="static/image/logo.svg" height="120" alt="logo">
+  <img src="static/image/logo.svg" height="120px" alt="logo">
 
   <h2 align="center">🔥A Flexible Toolkit for Accessing Public Web Data</h2>
 
